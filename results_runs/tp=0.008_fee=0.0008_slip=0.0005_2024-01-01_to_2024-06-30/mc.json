@@ -1,0 +1,5 @@
+{
+  "n_paths": 2000,
+  "horizon_days": 20,
+  "survival_rate": 1.0
+}

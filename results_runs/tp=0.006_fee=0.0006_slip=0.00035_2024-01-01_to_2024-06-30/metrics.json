@@ -1,0 +1,28 @@
+{
+  "n_trades": 98,
+  "net_pnl": -978.4933431442915,
+  "winrate": 0.35714285714285715,
+  "avg_pnl": -9.984625950451955,
+  "median_pnl": -36.33873747051777,
+  "std_pnl": 37.06815918090742,
+  "avg_win": 39.4707591575839,
+  "avg_loss": -37.459839899360766,
+  "profit_factor": 0.5853788908575994,
+  "skew": 0.5954629256859013,
+  "kurtosis": -1.6414885222410327,
+  "final_equity": 9021.50665685572,
+  "failed": true,
+  "fail_reason": "MAX_LOSS_TOUCH@2024-03-18 01:27:00+00:00",
+  "days": 78,
+  "config": {
+    "symbol": "BTC/USDT",
+    "exchange": "binance",
+    "fee": 0.0006,
+    "slippage": 0.00035,
+    "sl_pct": 0.002,
+    "tp_pct": 0.006,
+    "ftmo_balance": 10000.0,
+    "ftmo_daily_loss_pct": 0.05,
+    "ftmo_max_loss_pct": 0.1
+  }
+}
